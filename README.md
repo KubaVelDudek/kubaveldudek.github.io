@@ -2,7 +2,8 @@
 
 ## Do zrobienia:
 - Interaktywne panele:
-    - Hobby
+    - ~~Hobby~~
     - Wyszkolenie
     - Krótko o mnie
+---
 - Parametryzacja strony pod telefony
