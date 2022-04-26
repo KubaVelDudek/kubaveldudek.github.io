@@ -232,6 +232,11 @@ footer {
     cursor: pointer;
 }
 
+#wyksztalcenie>p {
+    font-size: xx-large;
+    filter: drop-shadow(5px 5px 3px black)
+}
+
 #wyksztalcenie:hover {
     transform: scale(120%);
     filter: drop-shadow(10px 10px 12px rgba(0, 0, 0, 0.479));
