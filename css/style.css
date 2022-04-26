@@ -186,7 +186,8 @@ footer {
     width: 300px;
     height: 200px;
     border-radius: 20px;
-    background-color: rgb(49, 49, 49);
+    background-image: url("../img/zainteresowania.png");
+    background-size: cover;
 }
 
 #hobby:hover {
