@@ -158,6 +158,7 @@ footer {
     overflow-y: visible;
     display: flex;
     justify-content: center;
+    align-items: flex-start;
     left: 0;
     top: 0;
     width: calc(100% - 45px);
