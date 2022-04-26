@@ -161,3 +161,7 @@ footer {
     font-size: xx-large;
     text-decoration: none;
 }
+
+#wrapperBoczny>a {
+    height: auto;
+}
