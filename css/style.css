@@ -135,3 +135,7 @@ footer {
     width: 32px;
     height: auto;
 }
+
+#przyciskRozwin>img.reverse {
+    transform: scaleX(-1);
+}

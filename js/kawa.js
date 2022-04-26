@@ -4,7 +4,7 @@ const strzalka = document.querySelector("#przyciskRozwin>img");
 
 przycisk.addEventListener('click', ()=>{
     boczny.classList.toggle('active');
-    strzalka.style.transform = "scaleX(-1)";
+    strzalka.classList.toogle('reverse');
 })
 
 function PowiekszStrzalke() {
