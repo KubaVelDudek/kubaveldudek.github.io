@@ -160,6 +160,7 @@ footer {
     background-color: transparent;
     font-size: xx-large;
     text-decoration: none;
+    filter: drop-shadow(3px 0 5px black);
 }
 
 #wrapperBoczny>a {
