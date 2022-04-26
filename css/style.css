@@ -33,6 +33,7 @@ body {
     min-width: none;
     font-family: 'Poppins', sans-serif;
     color: white;
+    text-decoration-color: white;
 }
 
 header {
@@ -76,7 +77,8 @@ header>p {
     width: 100%;
     height: 1000px;
     min-height: 500px;
-    background-color: rgb(177, 33, 33);
+    background: rgb(251,255,63);
+    background: linear-gradient(225deg, rgba(251,255,63,1) 20%, rgba(255,111,0,1) 80%);
 }
 
 footer {
@@ -139,4 +141,14 @@ footer {
 
 #przyciskRozwin>img.reverse {
     transform: scaleX(-1);
+}
+
+#wrapperBoczny {
+    display: flex;
+    justify-content: center;
+    left: 0;
+    top: 0;
+    width: calc(100% - 45px);
+    height: 100%;
+    background-color: transparent;
 }
