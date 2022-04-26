@@ -128,7 +128,6 @@ footer {
     background-color: rgb(53, 53, 53);
     transition: 0.3s;
     cursor: pointer;
-    filter: drop-shadow(3px 0 5px black);
 }
 
 #boczny.active {
@@ -166,4 +165,13 @@ footer {
 #wrapperBoczny>a {
     height: min-content;
     margin-top: 10px;
+}
+
+#oddzielaczBoczny {
+    top: 0;
+    right: 45px;
+    width: 5px;
+    height: 100%;
+    background: rgb(251,255,63);
+    background: linear-gradient(90deg, rgba(251,255,63,0) 32%, rgba(0,0,0,1) 98%);
 }
