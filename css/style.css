@@ -244,3 +244,28 @@ footer {
     transform: scale(120%);
     filter: drop-shadow(10px 10px 12px rgba(0, 0, 0, 0.479));
 }
+
+#oMnie {
+    z-index: 3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+    background-image: url("../img/oMnie.png");
+    background-size: cover;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+#oMnie>p {
+    text-align: center;
+    font-size: xx-large;
+    filter: drop-shadow(5px 5px 3px black)
+}
+
+#oMnie:hover {
+    transform: scale(120%);
+    filter: drop-shadow(10px 10px 12px rgba(0, 0, 0, 0.479));
+}
