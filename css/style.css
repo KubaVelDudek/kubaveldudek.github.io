@@ -33,7 +33,7 @@ body {
     min-width: none;
     font-family: 'Poppins', sans-serif;
     color: white;
-    text-decoration-color: white;
+    text-decoration: none;
 }
 
 header {
@@ -121,6 +121,7 @@ footer {
     height: 100%;
     background-color: rgb(53, 53, 53);
     transition: 0.3s;
+    cursor: pointer;
 }
 
 #boczny.active {
@@ -151,4 +152,5 @@ footer {
     width: calc(100% - 45px);
     height: 100%;
     background-color: transparent;
+    font-size: xx-large;
 }
