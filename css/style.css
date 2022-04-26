@@ -273,7 +273,7 @@ footer {
 #instrukcjaBoczny {
     position: absolute;
     z-index: 2;
-    top: 50;
+    top: 50px;
     left: 35px;
     width: 75px;
     height: 75px;
