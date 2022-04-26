@@ -109,6 +109,9 @@ footer {
 
 #przyciskRozwin {
     position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     z-index: 6;
     top: 0;
     right: 0;
@@ -124,4 +127,11 @@ footer {
 
 #przyciskRozwin:hover {
     background-color: rgb(65, 65, 65);
+}
+
+#przyciskRozwin>img {
+    position: absolute;
+    transform: scaleX(1);
+    width: 32px;
+    height: auto;
 }
