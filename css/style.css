@@ -22,6 +22,12 @@
     background: rgb(85, 85, 85);
 }
 
+a:-webkit-any-link {
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
 body {
     margin: 0;
     padding: 0;
