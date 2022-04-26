@@ -128,6 +128,7 @@ footer {
     background-color: rgb(53, 53, 53);
     transition: 0.3s;
     cursor: pointer;
+    filter: drop-shadow(3px 0 5px black);
 }
 
 #boczny.active {
@@ -160,7 +161,6 @@ footer {
     background-color: transparent;
     font-size: xx-large;
     text-decoration: none;
-    filter: drop-shadow(3px 0 5px black);
 }
 
 #wrapperBoczny>a {
