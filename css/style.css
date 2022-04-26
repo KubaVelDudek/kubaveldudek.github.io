@@ -163,5 +163,5 @@ footer {
 }
 
 #wrapperBoczny>a {
-    height: auto;
+    height: min-content;
 }
