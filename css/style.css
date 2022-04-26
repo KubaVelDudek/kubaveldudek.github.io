@@ -157,7 +157,7 @@ footer {
 #wrapperBoczny {
     overflow-y: visible;
     display: flex;
-    justify-content: center;
+    align-items: center;
     flex-direction: column;
     left: 0;
     top: 0;
