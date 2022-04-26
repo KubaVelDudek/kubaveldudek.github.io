@@ -194,6 +194,9 @@ footer {
 
 #hobby {
     position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     top: 0;
     width: 300px;
     height: 200px;
@@ -202,6 +205,12 @@ footer {
     background-size: cover;
 }
 
+#hobby>p {
+    font-size: xx-large;
+    filter: drop-shadow(5px 5px 3px black)
+}
+
 #hobby:hover {
     transform: scale(120%);
+    filter: drop-shadow(10px 10px 12px rgba(0, 0, 0, 0.479));
 }
