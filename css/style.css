@@ -132,8 +132,9 @@ footer {
 #przyciskRozwin>img {
     position: absolute;
     transform: scaleX(1);
-    width: 32px;
+    width: 20px;
     height: auto;
+    transition: 0.3s;
 }
 
 #przyciskRozwin>img.reverse {
