@@ -269,3 +269,15 @@ footer {
     transform: scale(120%);
     filter: drop-shadow(10px 10px 12px rgba(0, 0, 0, 0.479));
 }
+
+#instrukcjaBoczny {
+    position: absolute;
+    z-index: 2;
+    top: 50;
+    left: 35px;
+    width: 75px;
+    height: 75px;
+    background-image: url("../img/instrukcja.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
