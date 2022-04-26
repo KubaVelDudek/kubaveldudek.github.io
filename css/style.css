@@ -280,4 +280,5 @@ footer {
     background-image: url("../img/instrukcja.png");
     background-repeat: no-repeat;
     background-size: contain;
+    transition: 0.3s;
 }
