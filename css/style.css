@@ -180,3 +180,15 @@ footer {
     background: rgb(251,255,63);
     background: linear-gradient(90deg, rgba(251,255,63,0) 32%, rgba(18, 18, 18, 0.849) 98%);
 }
+
+#hobby {
+    top: 50px;
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: rgb(49, 49, 49);
+}
+
+#hobby:hover {
+    transform: scale(120%);
+}

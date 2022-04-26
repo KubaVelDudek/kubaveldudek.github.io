@@ -1,2 +1,8 @@
 # Strona Dudka
-Na tej stronie znajdą się wszelkie informacje o mnie :)
+
+## Do zrobienia:
+- Interaktywne panele:
+    - Hobby
+    - Wyszkolenie
+    - Krótko o mnie
+- Parametryzacja strony pod telefony
