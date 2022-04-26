@@ -195,7 +195,6 @@ footer {
 }
 
 #hobby {
-    position: absolute;
     z-index: 1;
     display: flex;
     justify-content: center;
@@ -220,7 +219,6 @@ footer {
 }
 
 #wyksztalcenie {
-    position: absolute;
     z-index: 1;
     display: flex;
     justify-content: center;
