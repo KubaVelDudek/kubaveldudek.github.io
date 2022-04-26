@@ -210,6 +210,7 @@ footer {
 }
 
 #hobby>p {
+    text-align: center;
     font-size: xx-large;
     filter: drop-shadow(5px 5px 3px black)
 }
@@ -234,6 +235,7 @@ footer {
 }
 
 #wyksztalcenie>p {
+    text-align: center;
     font-size: xx-large;
     filter: drop-shadow(5px 5px 3px black)
 }
