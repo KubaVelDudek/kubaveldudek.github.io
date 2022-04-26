@@ -183,9 +183,10 @@ footer {
 
 #duzyFlexbox {
     position: absolute;
+    z-index: 0;
     display: flex;
-    justify-content: center;
-    align-items: space-evenly;
+    justify-content: space-evenly;
+    align-items: center;
     top: 0;
     left: 0;
     width: 100%;
@@ -195,6 +196,7 @@ footer {
 
 #hobby {
     position: absolute;
+    z-index: 1;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -205,6 +207,7 @@ footer {
     background-image: url("../img/zainteresowania.png");
     background-size: cover;
     transition: 0.3s;
+    cursor: pointer;
 }
 
 #hobby>p {
