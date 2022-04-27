@@ -3,8 +3,8 @@
 ## Do zrobienia:
 - Interaktywne panele:
     - ~~Hobby~~
-    - Wyszkolenie
-    - Krótko o mnie
+    - ~~Wyszkolenie~~
+    - ~~Krótko o mnie~~
 ---
 - Podstrony:
     - Hobby

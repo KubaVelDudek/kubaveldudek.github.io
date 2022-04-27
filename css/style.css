@@ -271,6 +271,39 @@ footer {
     filter: drop-shadow(10px 10px 12px rgba(0, 0, 0, 0.479));
 }
 
+
+
+#hobby>a {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+
+#wyksztalcenie>a {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+
+#oMnie>a {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+
+
 #instrukcjaBoczny {
     position: absolute;
     z-index: 2;
