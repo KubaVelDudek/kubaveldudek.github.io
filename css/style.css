@@ -276,8 +276,6 @@ footer {
 #hobby>a {
     display: block;
     position: absolute;
-    top: 0;
-    left: 0;
     width: 300px;
     height: 200px;
     border-radius: 20px;
@@ -286,8 +284,6 @@ footer {
 #wyksztalcenie>a {
     display: block;
     position: absolute;
-    top: 0;
-    left: 0;
     width: 300px;
     height: 200px;
     border-radius: 20px;
@@ -296,8 +292,6 @@ footer {
 #oMnie>a {
     display: block;
     position: absolute;
-    top: 0;
-    left: 0;
     width: 300px;
     height: 200px;
     border-radius: 20px;
