@@ -330,5 +330,7 @@ footer {
 #trzymaczP {
     width: 300px;
     height: auto;
+    align-self: center;
     background-color: transparent;
+    font-size: x-large;
 }
