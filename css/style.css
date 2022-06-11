@@ -310,3 +310,19 @@ footer {
     background-size: contain;
     transition: 0.3s;
 }
+
+#wrapperDolny {
+    width: 100%;
+    height: 400px;
+}
+
+#wrapperDolny>iframe {
+    align-self: center;
+    justify-self: center;
+}
+
+#wrapperDolny>p {
+    top: 25px;
+    left: 25px;
+    font-size: xx-large;
+}
