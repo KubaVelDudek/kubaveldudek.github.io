@@ -314,7 +314,7 @@ footer {
 #wrapperDolny {
     position: absolute;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: flex-start;
     top: 400px;
     z-index: 0;
@@ -333,4 +333,5 @@ footer {
     align-self: center;
     background-color: transparent;
     font-size: x-large;
+    margin-right: 30px;
 }
