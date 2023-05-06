@@ -26,7 +26,22 @@ a:-webkit-any-link {
     color: white;
     cursor: pointer;
     text-decoration-color: white;
-    text-decoration: underline;
+}
+
+#yt:hover {
+    color: red;
+}
+
+#tw:hover {
+    color: rgb(216, 76, 216);
+}
+
+#ig:hover {
+    color: orange;
+}
+
+#gh:hover {
+    color: rgb(32, 32, 255);
 }
 
 body {
