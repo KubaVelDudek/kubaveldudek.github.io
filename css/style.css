@@ -179,8 +179,8 @@ footer {
     transition: 0.3s;
 }
 
-#wrapperBoczny>h1 {
-    align-self: center;
+#ms {
+    transform: scale(120%);
 }
 
 #oddzielaczBoczny {
