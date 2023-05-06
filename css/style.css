@@ -164,11 +164,11 @@ footer {
     width: calc(100% - 45px);
     height: 100%;
     background-color: transparent;
-    font-size: xx-large;
     text-decoration: none;
 }
 
 #wrapperBoczny>a {
+    font-size: xx-large;
     height: min-content;
     margin-top: 10px;
     transition: 0.8s;
