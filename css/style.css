@@ -179,10 +179,6 @@ footer {
     transition: 0.3s;
 }
 
-#ms {
-    transform: scale(120%);
-}
-
 #oddzielaczBoczny {
     position: absolute;
     top: 0;
